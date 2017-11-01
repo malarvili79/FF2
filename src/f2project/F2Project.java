@@ -17,6 +17,7 @@ public class F2Project {
     public static void main(String[] args) {
         System.out.println("main");
         System.out.println("first-message");
+        System.out.println("hhh");
     }
     
 }
